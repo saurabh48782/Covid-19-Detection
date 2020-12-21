@@ -1,6 +1,6 @@
 ### Image Classification Using Convolutional Neural Networks (CNNs)
 
-**Task:**  To classify image samples as infected or non-infected (binary classification problem)
+**Task:**  To classify image samples as infected or non-infected to detect covid-19 (binary classification problem)
 
 **About the dataset:**
 
